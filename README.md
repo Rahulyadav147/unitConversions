@@ -1,2 +1,3 @@
 # unitConversions
 A simple HTML,CSS and Javascript website to  perform unit Conversion.
+This GitHub repository contains a unit conversion project developed using HTML, CSS, and JavaScript. The goal of this project is to create a web-based tool that enables users to convert kilograms to pounds, kilometers to miles, and Celsius to Fahrenheit. The project utilizes HTML for creating the structure of the webpage, CSS for styling and enhancing the visual appeal, and JavaScript for implementing the conversion logic and handling user interactions. The user interface provides input fields for entering the values to be converted and buttons to initiate the conversion process. The converted values are displayed in the result fields.
